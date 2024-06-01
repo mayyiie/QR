@@ -31,7 +31,7 @@ This is a QR scanner application with a graphical user interface (GUI) that allo
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/yourusername/qr-scanner.git
+    git clone https://github.com/mayyiie/qr-scanner.git
     cd qr-scanner
     ```
 
