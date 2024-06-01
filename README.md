@@ -1,7 +1,7 @@
 # QR Scanner
 
 This is a QR scanner application with a graphical user interface (GUI) that allows users to scan QR codes from two sources:
-1. Local image files
+1. Local image files 
 2. Web camera
 
 ## Features
